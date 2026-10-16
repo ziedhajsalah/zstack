@@ -1,0 +1,10 @@
+{
+  "name": "zstack",
+  "version": "0.1.0",
+  "description": "Go deep first. Rigorous agent workflows for Claude Code: playbooks, named engineering principles, multi-model review, and proof on the real app. A Claude Code port of pstack.",
+  "author": {
+    "name": "Zied Hajsalah"
+  },
+  "license": "MIT",
+  "keywords": ["workflow", "principles", "playbooks", "review", "subagents", "verification"]
+}

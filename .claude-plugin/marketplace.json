@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "zstack",
+  "description": "Rigorous agent workflows for Claude Code, ported from pstack.",
+  "owner": {
+    "name": "Zied Hajsalah"
+  },
+  "plugins": [
+    {
+      "name": "zstack",
+      "description": "Playbooks, named principles, multi-model review, and proof on the real app.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

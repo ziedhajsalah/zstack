@@ -1,0 +1,9 @@
+zstack is a port of pstack (https://github.com/cursor/plugins/tree/main/pstack)
+by Lauren Tan, adapted from Cursor to Claude Code. pstack is MIT licensed.
+
+Ported from pstack v0.15.25:
+- skills/zied-mode (from skills/poteto-mode): SKILL.md and the investigation,
+  bug-fix, feature and opening-a-pr playbooks
+- skills/zied-mode/principles (from the 24 principle-* skills)
+- skills/how, skills/interrogate
+- agents/zied-agent.md (from agents/poteto-agent.md)
